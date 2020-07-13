@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Elixir Phoenix and Python Django as a Backend Software Engineer.
 - 🌱 I’m currently learning Elixir, Phoenix in-depth to be a better a Programmer.
-- 👯 I’m looking to collaborate on [Elixir Bangladesh Community](https://github.com/ElixirBangladesh) as one of the core contributor.
+- 👯 I’m currently collaborate on [Elixir Bangladesh Community](https://github.com/ElixirBangladesh) as one of the core contributor.
 - :heartbeat: I love to exploring Functional Programming
 - 🤔 My Current Stack?
 
