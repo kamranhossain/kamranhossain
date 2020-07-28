@@ -17,29 +17,47 @@ Here are some ideas to get you started:
 - 🤔 My Current Stack?
 
   ```
-    Backend:
-      Languages:
-        Elixir, Python, Ruby, JavaScript
-      Frameworks:
-        Phoenix, Django, Flask, Ruby on Rails
-      Database:
-        PostgreSQL(Main), MySQL, MongoDB
-      API Services and Tools:
-        Creating APIs: Django Rest, Graphene-Django(GraphQL for Django Backend), Absinthe(GraphQL for Elixir Backend),
-        Testing APIs: Postman, Insomnia, Graphiql
-      Operating System:
-        Linux, Ubuntu Desktop (Main OS), Ubuntu Server, Windows
-    DevOps & Deployment:
-      ▪ Webservers and Tools: Nginx, Apache, Gunicorn, Supervisor, Vagrant, Ansible, Docker
-      ▪ AWS: EC2, RDS, S3
-      ▪ Digital Ocean: Setup and config web apps and APIs for deployment.
-    Frontend:
-      JS Libs and Frameworks:
-        jQuery, React.js(Main), Typescript, NodeJS(Only for Frontend)
-      Template Engine:
-        HTML5, Django Template Engine, Jinja, Phoenix Template Engine, Phoenix LiveView
-      CSS and Frameworks:
-        CSS3, SCSS, SASS, Bootstrap 3, Bootstrap 4, Bulma, TailwindCSS.
+    Main Stack:
+      Backend:
+        Languages:
+          Elixir
+        Frameworks:
+          Phoenix
+        Database:
+          PostgreSQL
+        API Services and Tools:
+          Creating APIs: Phoenix JSON(REST API), Absinthe(GraphQL API)
+          Testing APIs: Postman, Graphiql
+        Operating System:
+          Linux, Ubuntu Desktop, Ubuntu Server
+      Frontend:
+        Template Engine:
+          Phoenix Template Engine, Phoenix LiveView
+
+    Side Stack:
+      Backend:
+        Languages:
+          Python, Ruby, JavaScript
+        Frameworks:
+          Django, Flask, Ruby on Rails
+        Database:
+          MySQL, MongoDB, Redis
+        API Services and Tools:
+          Creating APIs: Django Rest, Graphene-Django(GraphQL API)
+          Testing APIs: Insomnia
+        Operating System:
+          Windows
+      DevOps & Deployment:
+        ▪ Webservers and Tools: Nginx, Apache, Gunicorn, Supervisor, Vagrant, Ansible, Docker
+        ▪ AWS: EC2, RDS, S3
+        ▪ Digital Ocean: Setup and config web apps and APIs for deployment.
+      Frontend:
+        JS Libs and Frameworks:
+          jQuery, React.js(Main), Typescript, NodeJS(Only for Frontend)
+        Template Engine:
+          HTML5, Django Template Engine, Jinja, Phoenix Template Engine, Phoenix LiveView
+        CSS and Frameworks:
+          CSS3, SCSS, SASS, Bootstrap 3, Bootstrap 4, Bulma, TailwindCSS.
   ```
 
 - 📫 How to reach me:
