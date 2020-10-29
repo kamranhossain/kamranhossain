@@ -8,10 +8,12 @@ Here are some ideas to get you started:
 
 #### About me:
 
-**_Muslim | Introvert | Freelance Software Engineer at Upwork | Elixir & Phoenix | Python & Django | Open for Job Offers_**
+**_Muslim | Introvert | Freelance Software Engineer at Upwork | Software Engineer at MTL| Elixir & Phoenix | Python & Django | Open for Job Offers_**
 
-- 🔭 I’m currently working on Elixir Phoenix and Python Django as a Backend Software Engineer.
+- 🔭 I’m currently working on Elixir, Phoenix and Python, Django and Tornado as a Backend Software Engineer.
 - 🌱 I’m currently learning Elixir, Phoenix in-depth to be a better a Programmer.
+- 🌁 I’m currently working for [Monico Technologies Limited](http://www.monicotechnologies.com) as a Software Engineer(Backend).
+- ⚡ I’m currently working with Python, Tornado Web Server, MongoDB and Python-SocketIO, Redis and Collaborate with Frontend and doing some DevOps in Job.
 - 👯 I’m currently collaborate on [Elixir Bangladesh Community](https://github.com/ElixirBangladesh) as one of the core contributor.
 - :heartbeat: I love to exploring Functional Programming
 - 🤔 My Current Stack?
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
         Languages:
           Python, Ruby, JavaScript
         Frameworks:
-          Django, Flask, Ruby on Rails
+          Django, Tornado, Flask, Ruby on Rails, Python-SocketIO
         Database:
           MySQL, MongoDB, Redis
         API Services and Tools:
