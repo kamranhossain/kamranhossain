@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Elixir, Phoenix and Python, Django, and Tornado as a Backend Software Engineer.
 - 🌱 I’m currently learning Elixir, Phoenix in-depth to be a better Programmer.
-- 🌁 I’m currently working for [Monico Technologies Limited](http://www.monicotechnologies.com) as a Software Engineer(Backend).
+- 🌁 I’m currently working for [Monico Technologies Limited](http://www.monicotechnologies.com) as a Sr. Software Engineer(Backend).
 - ⚡ I’m currently working with Python, Tornado Web Server, MongoDB, Python-SocketIO, Redis, and also collaborate with Frontend and I am doing some DevOps in Job.
 - 👯 I’m currently collaborate on [Elixir Bangladesh Community](https://github.com/ElixirBangladesh) as one of the core contributor.
 - :heartbeat: I love to exploring Functional Programming
